@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Thomas Larson&#x27;s Wisdom",
+    "description": "",
+    "home_page_url": "https://tlarson2004.github.io/gh-pages",
+    "feed_url": "https://tlarson2004.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thomas Larson"
+    },
+    "items": [
+        {
+            "id": "https://tlarson2004.github.io/gh-pages/coding-clubs-are-great.html",
+            "url": "https://tlarson2004.github.io/gh-pages/coding-clubs-are-great.html",
+            "title": "Coding Clubs Are Great",
+            "summary": "The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.",
+            "content_html": "<p>The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.</p>",
+            "author": {
+                "name": "Thomas Larson"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-24T16:26:51-05:00",
+            "date_modified": "2022-01-24T16:38:30-05:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tlarson2004.github.io/gh-pages/sitemap.xml

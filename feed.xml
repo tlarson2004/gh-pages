@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Thomas Larson&#x27;s Wisdom</title>
+    <link href="https://tlarson2004.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://tlarson2004.github.io/gh-pages" />
+    <updated>2022-01-24T16:38:30-05:00</updated>
+    <author>
+        <name>Thomas Larson</name>
+    </author>
+    <id>https://tlarson2004.github.io/gh-pages</id>
+
+    <entry>
+        <title>Coding Clubs Are Great</title>
+        <author>
+            <name>Thomas Larson</name>
+        </author>
+        <link href="https://tlarson2004.github.io/gh-pages/coding-clubs-are-great.html"/>
+        <id>https://tlarson2004.github.io/gh-pages/coding-clubs-are-great.html</id>
+
+        <updated>2022-01-24T16:38:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                    The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The quick brown fox jumped over the lazy dog and ran to Coding Club, because Coding Club is great.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
